@@ -1,4 +1,5 @@
 # Byte-compiled / optimized / DLL files
+
 .DS_Store
 __pycache__/
 *.py[cod]
@@ -173,4 +174,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+<<<<<<< HEAD
 
+=======
+>>>>>>> 55423d67449bf8a2930171ea7394de760fb60fd9
