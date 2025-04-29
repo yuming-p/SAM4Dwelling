@@ -1,3 +1,4 @@
+# Segment Anything Model Adapted for Dwelling Extraction (SAM4Dwelling) From High-Resolution Aerial Imagery
 # SAM4Dwelling
 apply SAM-Adapter on high resolution aerial images and drone images, from data preparation to prediction (work in progress)
 
